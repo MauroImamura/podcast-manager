@@ -1,0 +1,72 @@
+[
+  {
+    "podcastName": "Tech Talk Daily",
+    "episode": "The Future of AI in Everyday Life",
+    "cover": "https://example.com/covers/tech_talk.jpg",
+    "link": "https://youtube.com/watch?v=12345",
+    "category": ["Technology", "AI", "Innovation"]
+  },
+  {
+    "podcastName": "The Science Hour",
+    "episode": "Exploring the Mysteries of Black Holes",
+    "cover": "https://example.com/covers/science_hour.jpg",
+    "link": "https://youtube.com/watch?v=67890",
+    "category": ["Science", "Space", "Astrophysics"]
+  },
+  {
+    "podcastName": "Mindful Living",
+    "episode": "10 Ways to Practice Mindfulness Every Day",
+    "cover": "https://example.com/covers/mindful_living.jpg",
+    "link": "https://youtube.com/watch?v=abcde",
+    "category": ["Wellness", "Mental Health", "Mindfulness"]
+  },
+  {
+    "podcastName": "History Now",
+    "episode": "How World War II Shaped the Modern World",
+    "cover": "https://example.com/covers/history_now.jpg",
+    "link": "https://youtube.com/watch?v=fghij",
+    "category": ["History", "World War II", "Politics"]
+  },
+  {
+    "podcastName": "Crypto Insights",
+    "episode": "Bitcoin vs Ethereum: What's Next?",
+    "cover": "https://example.com/covers/crypto_insights.jpg",
+    "link": "https://youtube.com/watch?v=klmno",
+    "category": ["Finance", "Cryptocurrency", "Bitcoin"]
+  },
+  {
+    "podcastName": "Fitness Focus",
+    "episode": "The Ultimate Guide to Strength Training",
+    "cover": "https://example.com/covers/fitness_focus.jpg",
+    "link": "https://youtube.com/watch?v=pqrst",
+    "category": ["Fitness", "Health", "Strength Training"]
+  },
+  {
+    "podcastName": "Culinary Chronicles",
+    "episode": "Mastering Italian Pasta at Home",
+    "cover": "https://example.com/covers/culinary_chronicles.jpg",
+    "link": "https://youtube.com/watch?v=uvwxy",
+    "category": ["Food", "Cooking", "Italian Cuisine"]
+  },
+  {
+    "podcastName": "Entrepreneurial Edge",
+    "episode": "How to Start Your Own Business in 2024",
+    "cover": "https://example.com/covers/entrepreneurial_edge.jpg",
+    "link": "https://youtube.com/watch?v=zabcd",
+    "category": ["Business", "Entrepreneurship", "Startups"]
+  },
+  {
+    "podcastName": "Travel Tales",
+    "episode": "Backpacking Through South America",
+    "cover": "https://example.com/covers/travel_tales.jpg",
+    "link": "https://youtube.com/watch?v=efghi",
+    "category": ["Travel", "Adventure", "South America"]
+  },
+  {
+    "podcastName": "Pop Culture Pulse",
+    "episode": "Top Movies to Watch This Year",
+    "cover": "https://example.com/covers/pop_culture_pulse.jpg",
+    "link": "https://youtube.com/watch?v=mnopq",
+    "category": ["Entertainment", "Movies", "Pop Culture"]
+  }
+]
