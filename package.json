@@ -1,0 +1,21 @@
+{
+  "name": "podcast-manager",
+  "version": "1.0.0",
+  "description": "> Node web api for managing famous podcast contents, creating lists by category and filters of creators and guests. It gets episodes from youtube for building the catalogue.",
+  "main": "index.js",
+  "type": "module",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tsup": "^8.3.0",
+    "tsx": "^4.19.1",
+    "typescript": "^5.6.3"
+  }
+}
